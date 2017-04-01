@@ -1,0 +1,20 @@
+{
+  "name": "lambci-testing",
+  "version": "0.0.1",
+  "description": "Testing LambCI.",
+  "repository": "Calrion/lambci-testing",
+  "author": "Calrion <gitstuff@calrion.net>",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
